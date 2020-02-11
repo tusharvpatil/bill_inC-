@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\billing2\billing2\bin\Debug\billing2.exe.config
+C:\Users\User\source\repos\billing2\billing2\bin\Debug\billing2.exe
+C:\Users\User\source\repos\billing2\billing2\bin\Debug\billing2.pdb
+C:\Users\User\source\repos\billing2\billing2\obj\Debug\billing2.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\billing2\billing2\obj\Debug\billing2.Form1.resources
+C:\Users\User\source\repos\billing2\billing2\obj\Debug\billing2.Properties.Resources.resources
+C:\Users\User\source\repos\billing2\billing2\obj\Debug\billing2.csproj.GenerateResource.cache
+C:\Users\User\source\repos\billing2\billing2\obj\Debug\billing2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\billing2\billing2\obj\Debug\billing2.exe
+C:\Users\User\source\repos\billing2\billing2\obj\Debug\billing2.pdb
